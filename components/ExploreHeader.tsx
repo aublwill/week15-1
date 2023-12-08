@@ -40,7 +40,7 @@ export default function ExploreHeader() {
     <SafeAreaView style={{ flex: 1, backgroundColor: '#fff' }}>
       <View style={styles.container}>
         <View style={styles.actionRow}>
-            <Link href={'/(modals)/booking'}>Booking</Link>
+            <Link href={'/(modals)/booking'}>Where to</Link>
             <TouchableOpacity style={styles.filterBtn}>
             <Ionicons name="options-outline" size={24} />
           </TouchableOpacity>
