@@ -3,9 +3,9 @@ This project functions as an AirBnB app.
 
 ## Expo Links
 <img width="220" alt="image" src="https://github.com/aublwill/week15-1/assets/143005409/34158fce-3b98-4d5f-896c-bda432c5f03f">
-Android^
+* <-android
 <img width="224" alt="image" src="https://github.com/aublwill/week15-1/assets/143005409/cef38419-4469-4f04-878b-abcd6913e8a2">
-IOS^
+* <-ios
 
 ## Functionality 
 The following **required** functionality is completed:
