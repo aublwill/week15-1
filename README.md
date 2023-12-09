@@ -2,7 +2,10 @@
 This project functions as an AirBnB app.
 
 ## Expo Links
-
+<img width="220" alt="image" src="https://github.com/aublwill/week15-1/assets/143005409/34158fce-3b98-4d5f-896c-bda432c5f03f">
+Android^
+<img width="224" alt="image" src="https://github.com/aublwill/week15-1/assets/143005409/cef38419-4469-4f04-878b-abcd6913e8a2">
+IOS^
 
 ## Functionality 
 The following **required** functionality is completed:
@@ -31,6 +34,10 @@ The folowing **extensions** are implemented:
   
 ## Video Walkthrough 
 
+
+
+
+https://github.com/aublwill/week15-1/assets/143005409/dbdc2c81-4219-44d3-b180-92fdc7e3bb05
 
 
 
