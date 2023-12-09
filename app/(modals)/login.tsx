@@ -2,7 +2,7 @@ import { View, Text, TextInput, Button } from 'react-native'
 import React, { useState } from 'react'
 import Profile from '../(tabs)/profile'
 import { FontAwesome } from '@expo/vector-icons';
-import auth from '@react-native-firebase/auth';
+//import auth from '@react-native-firebase/auth';
 
 export default function Login() {
   return (
